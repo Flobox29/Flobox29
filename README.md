@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Flobox29
 - 📫 How to reach me : Use florent.flobox@gmail.com
-- ⚡ Fun fact: ...
 
 <!---
 Flobox29/Flobox29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
