@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Flobox29
-- 📫 How to reach me : Use florent.flobox@gmail.com
+-  Hi, I’m Florent BOXUS.
+- Master Student in Electricity Engineering, finality in Neuromorphic Engineering.
+- Currently Exchange student in Polytechnique Montréal.
+-  How to reach me : Use florent.boxus@gmail.com
 
 <!---
 Flobox29/Flobox29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
