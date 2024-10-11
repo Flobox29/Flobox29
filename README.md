@@ -1,6 +1,7 @@
 -  Hi, I’m Florent BOXUS.
 - Master Student in Electricity Engineering, finality in Neuromorphic Engineering.
 - Currently Exchange student in Polytechnique Montréal.
+- Focus on Robotics, Control Theory and signal Processing
 -  How to reach me : Use florent.boxus@gmail.com
 
 <!---
